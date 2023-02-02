@@ -42,3 +42,13 @@
     background-color: yellow;
 
 }
+
+.amazinglasagna,
+.lasagnapara {
+    background-color: rgb(222, 153, 153);
+}
+
+.lasagnapara {
+    font-weight:900;
+    font-size: 20px;
+}
