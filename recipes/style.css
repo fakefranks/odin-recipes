@@ -31,3 +31,8 @@
     height: auto;
     width: 500px;
 }
+
+.lasagnastuff ,
+.lasagnalist {
+    background-color: rgb(127, 184, 233);
+}
