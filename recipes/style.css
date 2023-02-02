@@ -36,3 +36,9 @@
 .lasagnalist {
     background-color: rgb(127, 184, 233);
 }
+
+#lasagnasteps,
+#lasagnasteplist {
+    background-color: yellow;
+
+}
