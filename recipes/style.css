@@ -3,3 +3,12 @@
     height: auto;
     width: 600px;
 }
+
+#homebutton {
+    background-color: rgb(165, 165, 236);
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 16px;
+
+}
