@@ -13,8 +13,10 @@
 
 }
 
-.chickenstuff {
+.chickenstuff,
+.chickensteps {
     border: 1px solid black;
     display: inline-block;
     background-color: rgb(197, 227, 197);
 }
+
