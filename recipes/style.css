@@ -20,6 +20,8 @@
     background-color: rgb(197, 227, 197);
 }
 
-.chickenheading {
+.chickenheading,
+.secondchickenheading,
+.bigchickenheading {
     background-color: yellow;
 }
