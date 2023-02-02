@@ -59,6 +59,10 @@
     width: auto;
 }
 
+.sgheddysteps {
+    background-color: rgb(212, 232, 212);
+}
+
  .sgheddy {
     background-color: rgb(165, 157, 157);
 }
@@ -66,3 +70,8 @@
 .para {
     background-color: rgb(159, 159, 185);
 }
+
+.sgheddylist {
+    background-color: yellow;
+}
+
